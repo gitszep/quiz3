@@ -24,7 +24,7 @@ const questions = [
         ],
     },
     {
-        questionText: 'Kiedy są urodziny Magdaleny?',
+        questionText: 'Kiedy są imieniny Magdaleny?',
         answerOptions: [
             { answerText: '12 Lipca', isCorrect: false },
             { answerText: '10 kwietnia', isCorrect: true },
